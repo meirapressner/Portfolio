@@ -1,0 +1,33 @@
+p {
+    color:#006400; 
+    font-size: 17px;
+}
+h1 {
+    text-align: center;
+    color: lightskyblue;
+    background-color: black;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: lightskyblue;
+    border-radius: 30px;
+}
+h3 {
+    color: pink;
+    text-align: center;
+    font-size: 20px;
+}
+li {
+    color: blue;
+    font-size: 17px;
+}
+body {
+    background-color: darkgray;
+}
+img {
+    width: 100px;
+    height: 200px;
+}
+#image2{
+    width:150px;
+    height:100px;
+}
